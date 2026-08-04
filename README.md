@@ -9,18 +9,12 @@ I am an Aviation Technician transitioning into the IT field. My background in ai
 - ⚙️ **Background:** Aircraft maintenance and technical systems.
 - 🌱 **Learning Path:** Expanding my skills into web frameworks (Django/Flask) and data analysis tools.
 - 📊 **My Goal:** To build web applications that can process, analyze, and beautifully visualize data.
-- 📫 **Connect with me:** [Telegram](https://t.me) | `mercer9110@gmail.com`
+- 📫 **Connect with me:** [Telegram](https://t.me/Aleksandr_Emelianenko) | `mercer9110@gmail.com`
 
 ---
 
 ### 🛠️ Tech Stack & Learning Goals
 
-![Python](https://shields.io) ![Pandas](https://shields.io) ![SQL](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Django](https://shields.io) ![Git](https://shields.io) ![VSCode](https://shields.io)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
+- 🐍 **Backend & Analytics:** Python, SQL, Pandas
+- 🌐 **Web Frontend:** HTML5, CSS3
+- 📦 **Frameworks & Tools:** Django, Flask, Git, VS Code
