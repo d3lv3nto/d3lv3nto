@@ -1,4 +1,4 @@
-# Hi there, I'm d3lv3nto 👋
+# Hi there, I'm Aleksandr 👋
 
 I am an Aviation Technician transitioning into the IT field. My background in aircraft maintenance has taught me precision, logic, and how to work with complex systems. Now, I am applying this engineering mindset to master **Python**, focusing on **Web Development** and **Data Analytics**.
 
