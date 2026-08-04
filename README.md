@@ -15,29 +15,12 @@ I am an Aviation Technician transitioning into the IT field. My background in ai
 
 ### 🛠️ Tech Stack & Learning Goals
 
-<p align="left">
-  <!-- Основной язык -->
-  <img src="https://shields.io" alt="Python"/>
-  
-  <!-- Аналитика (Будущие/текущие цели) -->
-  <img src="https://shields.io" alt="Pandas"/>
-  <img src="https://shields.io" alt="SQL"/>
-  
-  <!-- Веб (Будущие/текущие цели) -->
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="Django"/>
-
-  <!-- Инструменты -->
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="VSCode"/>
-</p>
+![Python](https://shields.io) ![Pandas](https://shields.io) ![SQL](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Django](https://shields.io) ![Git](https://shields.io) ![VSCode](https://shields.io)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
+![GitHub Stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
